@@ -14,7 +14,10 @@ public class App
 
         output("Name: " + cat.getStringAttributes("#name"));
         output("Fellfarbe: " + cat.getStringAttributes("#color"));
-        output("Alter: " + cat.getAge());        
+        output("Alter: " + cat.getAge());  
+        output("Alter: " + cat.getAge()); 
+        output("Alter: " + cat.getAge()); 
+        output("Alter: " + cat.getAge());      
         output("----------------");
 
        
